@@ -3,7 +3,7 @@
 ## 📝 Introduction
 This document contains key learnings about Linux, covering its history, distributions, and some of the basic commands every user should know.
 
-## Section 1: Linux History
+## 📜 Section 1: Linux History
 Linux is an open-source operating system created by Linus Torvalds in 1991. It was initially developed as a personal project to create a free, open-source alternative to proprietary Unix-like operating systems. The central part of Linux is the **Linux kernel**, which is the core that interacts with hardware and manages system resources.
 
 The significance of Linux lies in its open-source nature, allowing developers around the world to modify, improve, and distribute it freely. Over the years, Linux has evolved into a stable, secure, and powerful operating system that runs on various platforms, including servers, desktops, embedded systems, and even mobile devices. It has become a dominant force in the world of servers and cloud computing, making it one of the most essential technologies today.
